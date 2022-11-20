@@ -1,17 +1,17 @@
 <h1 align="center">Hi 👋, I'm Shafi</h1>
 <h3 align="center">A passionate Shopify/MERN developer from Dhaka,Bangladesh</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafiimam&label=Profile%20views&color=0e75b6&style=flat" alt="shafiimam" /> </p>
+<p align="left" > <img src="https://komarev.com/ghpvc/?username=shafiimam&label=Profile%20views&color=0e75b6&style=flat" alt="shafiimam" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafiimam" alt="shafiimam" /></a> </p>
 
-- 🌱 I’m currently learning **Redux, Typescript**
+- 🌱 I’m currently learning **Next JS | Typescript**
 
-- 👯 I’m looking to collaborate on **Shopify Apps**
+- 👯 I’m looking to collaborate on **Shopify Apps | Ecommerce Development**
 
 - 🤝 I’m looking for help with **Shopify/MERN Apps**
 
-- 💬 Ask me about **react, javascript, shopify**
+- 💬 Ask me about **react | javascript | shopify**
 
 - 📫 How to reach me **shafidev96@gmail.com**
 
